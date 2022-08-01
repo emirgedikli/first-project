@@ -1,0 +1,25 @@
+body {
+  background-color: antiquewhite;
+  background-repeat: no-repeat;
+  background-image: url("../../ged1/assets/img/sage.png"),
+    url("../../ged1/assets/img/viper.png");
+  background-size: 40%, 50%;
+  background-position: 900px 300px, 20px 320px;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+  background-color: olivedrab;
+  border: 20px;
+  border-style: hidden;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+span {
+  font-size: 20px;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: absolute;
+  left: 10px;
+}

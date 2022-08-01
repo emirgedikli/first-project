@@ -1,0 +1,32 @@
+body {
+  background-color: antiquewhite;
+  background-repeat: no-repeat;
+  background-image: url("../img/omen.png"), url("../img/viper.png");
+  background-size: 50%, 50%;
+  background-position: 800px 265px, 20px 320px;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color: white;
+  background-color: olivedrab;
+  text-align: right;
+}
+
+p {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  text-align: right;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-indent: 40px;
+  right: 10px;
+}
+
+span {
+  color: darkgoldenrod;
+  padding: 20px;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
